@@ -1,5 +1,3 @@
-import {arch} from "os";
-
 export class FileItem {
 
     public archivo: File;

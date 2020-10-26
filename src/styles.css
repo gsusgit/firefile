@@ -1,3 +1,7 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .main-container{
     margin-top: 40px;
 }
@@ -21,3 +25,4 @@
 .text-green {
     color: green
 }
+
