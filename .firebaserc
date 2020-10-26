@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firefile-dd4be": {
+      "hosting": {
+        "firefile": [
+          "firefile-dd4be"
+        ]
+      }
+    }
+  }
+}
